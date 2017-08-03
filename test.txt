@@ -1,7 +1,13 @@
 this is a test
+<<<<<<< HEAD
 qdkwj
 dxakjjcn
 daxsjkbljc
 acvkjjbnca
 aclbnljnca
 asclnaljksvn
+=======
+hi how r u
+hello
+nice to meet u
+>>>>>>> af440a6a3072c825956c75d050e99cddc5e6942d
